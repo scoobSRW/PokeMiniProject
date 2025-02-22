@@ -30,7 +30,7 @@ pokemon-api-proj/
 ## Installation & Setup
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/pokemon-api-proj.git
+git clone https://github.com/scotty-r-white/pokemon-api-proj.git
 ```
 ### Navigate into the project folder:
 ```bash
